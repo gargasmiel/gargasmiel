@@ -162,37 +162,6 @@ Actualmente fortaleciendo conocimientos en:
 </p>
 
 ---
-
-# 🌱 Un poco más sobre mí
-
-```python
-gabriel = {
-    "name": "Gabriel Fernández",
-    "role": "Junior Developer",
-    "education": "SENA",
-    "focus": [
-        "Web Development",
-        "Python",
-        "JavaScript",
-        "Databases",
-        "Software Development"
-    ],
-    "tools": [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Linux"
-    ],
-    "currently_learning": [
-        "Backend Development",
-        "JavaScript",
-        "Python",
-        "Databases"
-    ],
-    "goal": "Become a better developer every day 🚀"
-}
-```
-
 ---
 
 # 🤝 Conecta conmigo
