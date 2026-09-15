@@ -146,24 +146,6 @@ Actualmente fortaleciendo conocimientos en:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gargasmiel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargasmiel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🔥 Actividad
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargasmiel&theme=tokyonight&hide_border=true"/>
-</p>
-
----
----
-
 # 🤝 Conecta conmigo
 
 <p align="center">
