@@ -97,8 +97,8 @@ También puedes encontrar en mis repositorios diferentes ejercicios, prácticas 
 
 ```text
 HTML / CSS          ███████████████████░   90%
-JavaScript          ███████████████░░░░░   75%
-Python              ███████████████░░░░░   75%
+JavaScript          █████████░░░░░░░░░░░   55%
+Python              ████░░░░░░░░░░░░░░░░   25%
 Git / GitHub        ████████████████░░░░   80%
 Bases de datos      ██████████████░░░░░░   70%
 UML                 ███████████████░░░░░   75%
